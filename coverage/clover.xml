@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1582604314182" clover="3.2.0">
+  <project timestamp="1582604314183" name="All files">
+    <metrics statements="40" coveredstatements="38" conditionals="18" coveredconditionals="18" methods="15" coveredmethods="13" elements="73" coveredelements="69" complexity="0" loc="40" ncloc="40" packages="1" files="6" classes="6"/>
+    <file name="Button.js" path="/Users/mon/workspace/CalculatorApp/src/Button.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="6" count="51" type="stmt"/>
+    </file>
+    <file name="Screen.js" path="/Users/mon/workspace/CalculatorApp/src/Screen.js">
+      <metrics statements="10" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="7"/>
+      <line num="11" count="3" type="stmt"/>
+      <line num="15" count="3" type="stmt"/>
+      <line num="23" count="12" type="stmt"/>
+      <line num="26" count="36" type="stmt"/>
+      <line num="27" count="0" type="stmt"/>
+      <line num="36" count="15" type="stmt"/>
+      <line num="38" count="0" type="stmt"/>
+      <line num="49" count="6" type="stmt"/>
+      <line num="53" count="2" type="stmt"/>
+      <line num="54" count="8" type="stmt"/>
+    </file>
+    <file name="actions.js" path="/Users/mon/workspace/CalculatorApp/src/actions.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="8" count="3" type="stmt"/>
+    </file>
+    <file name="constants.js" path="/Users/mon/workspace/CalculatorApp/src/constants.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="1" count="4" type="stmt"/>
+      <line num="8" count="4" type="stmt"/>
+      <line num="10" count="4" type="stmt"/>
+      <line num="11" count="4" type="stmt"/>
+    </file>
+    <file name="reducer.js" path="/Users/mon/workspace/CalculatorApp/src/reducer.js">
+      <metrics statements="22" coveredstatements="22" conditionals="18" coveredconditionals="18" methods="3" coveredmethods="3"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="12" count="10" type="cond" truecount="2" falsecount="0"/>
+      <line num="13" count="6" type="stmt"/>
+      <line num="16" count="2" type="stmt"/>
+      <line num="19" count="2" type="stmt"/>
+      <line num="22" count="10" type="cond" truecount="3" falsecount="0"/>
+      <line num="24" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="27" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="29" count="5" type="stmt"/>
+      <line num="31" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="33" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="34" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="35" count="1" type="stmt"/>
+      <line num="37" count="1" type="stmt"/>
+      <line num="40" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="41" count="1" type="stmt"/>
+      <line num="42" count="1" type="stmt"/>
+      <line num="45" count="1" type="stmt"/>
+      <line num="47" count="2" type="stmt"/>
+    </file>
+    <file name="styles.js" path="/Users/mon/workspace/CalculatorApp/src/styles.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="3" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>
